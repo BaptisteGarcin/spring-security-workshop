@@ -1,6 +1,6 @@
 # Troisième étape
 
-Le but de cet étape est de mettre en place une connexion par **token**. Nous utiliserons ici un type de token éprouvé, le token JWT.
+Le but de cette étape est de mettre en place une connexion par **token**. Nous utiliserons ici un type de token éprouvé, le token JWT.
 Le principe de se genre d'authentification réside dans le fait que chaque requête, chaque appel au serveur doit être accompagné d'un token. Celui-ci doit contenir des informations suffisantes afin que le backend soit en mesure de savoir qui fait l'appel et s'il a le droit.
 
 
